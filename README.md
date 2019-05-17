@@ -1,2 +1,2 @@
 # postinstall_script
-Personal postinstallation script 
+Personal postinstallation script for Kubuntu.
